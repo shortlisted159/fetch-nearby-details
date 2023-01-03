@@ -19,4 +19,9 @@ Google api has been used to display the map on the web app.
 
 
 ## Dependencies
-[![Styling - CSS](https://img.shields.io/static/v1?label=Styling&message=CSS&color=%239D52F7)]([(https://www.css])
+[![dependency - Node.js](https://img.shields.io/static/v1?label=dependency&message=Node.js&color=%23A4F752)](https://nodejs.org/en/) <br>
+[![library - React.js](https://img.shields.io/static/v1?label=library&message=React.js&color=%2352D2F7)](https://reactjs.org/) <br>
+[![UI - Material UI](https://img.shields.io/static/v1?label=UI&message=Material+UI&color=%2352F7ED)](https://mui.com/) <br>
+[![Styling - CSS](https://img.shields.io/static/v1?label=Styling&message=CSS&color=%239D52F7)](https://www.css) <br>
+[![API - Rapid API](https://img.shields.io/static/v1?label=API&message=Rapid+API&color=%23F76152)](https://rapidapi.com/) <br>
+[![API - Google API](https://img.shields.io/static/v1?label=API&message=Google+API&color=%23F7E152)](https://developers.google.com/apis-explorer)
