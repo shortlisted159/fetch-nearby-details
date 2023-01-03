@@ -4,6 +4,8 @@ This project fetches the details of Hotels, Restaurants and Attractions
 of a particular place(it asks for your location once you open the app) 
 and displays them on a map.
 
+There is a drop down functionality that filters according to reviews.
+
 A third party api called Rapid api is used to fetch the details for 
 the app, We have used travel-advisor api and weather api have been 
 used for the project.
