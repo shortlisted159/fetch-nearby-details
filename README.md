@@ -19,4 +19,4 @@ Google api has been used to display the map on the web app.
 
 
 ## Dependencies
-[![Styling - CSS](https://img.shields.io/static/v1?label=Styling&message=CSS&color=%239D52F7)](https://www.materialui.com)
+[![Styling - CSS](https://img.shields.io/static/v1?label=Styling&message=CSS&color=%239D52F7)]([(https://www.css])
