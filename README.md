@@ -1,8 +1,3 @@
-# The Link to the app is
-https://fetch-nearby-details.netlify.app/
-
-
-
 # Fetch-Nearby-Details
 
 This project fetches the details of Hotels, Restaurants and Attractions 
@@ -25,3 +20,11 @@ Google api has been used to display the map on the web app.
 [![Styling - CSS](https://img.shields.io/static/v1?label=Styling&message=CSS&color=%239D52F7)](https://www.css) <br>
 [![API - Rapid API](https://img.shields.io/static/v1?label=API&message=Rapid+API&color=%23F76152)](https://rapidapi.com/) <br>
 [![API - Google API](https://img.shields.io/static/v1?label=API&message=Google+API&color=%23F7E152)](https://developers.google.com/apis-explorer)
+
+
+## Demo
+https://fetch-nearby-details.netlify.app/
+
+### Screen Shot - 
+
+![Screenshot (62)](https://user-images.githubusercontent.com/64829176/210340467-0ba729ee-92b9-4d94-b723-48c6dc63376e.png)
