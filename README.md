@@ -30,3 +30,27 @@ https://fetch-nearby-details.netlify.app/
 ### Screen Shot - 
 
 ![Screenshot (62)](https://user-images.githubusercontent.com/64829176/210340467-0ba729ee-92b9-4d94-b723-48c6dc63376e.png)
+
+
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run build
+```
+Upload the build file to a hosting app.
+This project has been uploaded to netlify.
+
+## Can be used by
+
+This project can be useful to the following people, 
+
+- Locals who want to know more about their own place
+  i.e. if someone is looking for a good place to eat or visit.
+  The cards show comprehensive details about a place.
+- Tourists looking for a good place to stay, visit and eat
+  may find this app useful.
+
