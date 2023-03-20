@@ -28,8 +28,12 @@ Google api has been used to display the map on the web app.
 https://fetch-nearby-details.netlify.app/
 
 ## Screenshot - 
-### restaurants
+### Restaurants
 ![Screenshot (62)](https://user-images.githubusercontent.com/64829176/210340467-0ba729ee-92b9-4d94-b723-48c6dc63376e.png)
+
+### Attractions
+![Screenshot (90)](https://user-images.githubusercontent.com/64829176/226339762-7d53227c-31fd-4f3e-8c31-10e540db9e8e.png)
+
 
 
 
